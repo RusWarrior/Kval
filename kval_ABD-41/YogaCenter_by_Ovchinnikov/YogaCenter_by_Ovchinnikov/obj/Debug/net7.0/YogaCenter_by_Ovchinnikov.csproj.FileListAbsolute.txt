@@ -1,0 +1,7 @@
+/home/student/Рабочий стол/kval_ABD-41/YogaCenter_by_Ovchinnikov/YogaCenter_by_Ovchinnikov/obj/Debug/net7.0/YogaCenter_by_Ovchinnikov.csproj.AssemblyReference.cache
+/home/student/Рабочий стол/kval_ABD-41/YogaCenter_by_Ovchinnikov/YogaCenter_by_Ovchinnikov/obj/Debug/net7.0/Avalonia/Resources.Inputs.cache
+/home/student/Рабочий стол/kval_ABD-41/YogaCenter_by_Ovchinnikov/YogaCenter_by_Ovchinnikov/obj/Debug/net7.0/Avalonia/resources
+/home/student/Рабочий стол/kval_ABD-41/YogaCenter_by_Ovchinnikov/YogaCenter_by_Ovchinnikov/obj/Debug/net7.0/YogaCenter_by_Ovchinnikov.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/Рабочий стол/kval_ABD-41/YogaCenter_by_Ovchinnikov/YogaCenter_by_Ovchinnikov/obj/Debug/net7.0/YogaCenter_by_Ovchinnikov.AssemblyInfoInputs.cache
+/home/student/Рабочий стол/kval_ABD-41/YogaCenter_by_Ovchinnikov/YogaCenter_by_Ovchinnikov/obj/Debug/net7.0/YogaCenter_by_Ovchinnikov.AssemblyInfo.cs
+/home/student/Рабочий стол/kval_ABD-41/YogaCenter_by_Ovchinnikov/YogaCenter_by_Ovchinnikov/obj/Debug/net7.0/YogaCenter_by_Ovchinnikov.csproj.CoreCompileInputs.cache
